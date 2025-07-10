@@ -86,7 +86,7 @@ bash
 Copy
 Edit
 jupyter notebook claim_prediction_xgboost.ipynb
-# OR
+
 python claim_prediction_xgboost.py
  Example output
 yaml
