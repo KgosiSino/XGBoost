@@ -62,16 +62,7 @@ Calculates MSE and R² on the test data.
 
 Predicts claim amount for a new synthetic client.
 
- Project structure
-bash
-Copy
-Edit
-insurance-claim-xgboost/
-│
-├── claim_prediction_xgboost.ipynb  # Jupyter notebook
-├── claim_prediction_xgboost.py     # Python script (optional)
-└── README.md                       # Project documentation
- Key algorithms & libraries
+
 XGBoost for regression
 
 scikit-learn: preprocessing, train-test split, metrics
